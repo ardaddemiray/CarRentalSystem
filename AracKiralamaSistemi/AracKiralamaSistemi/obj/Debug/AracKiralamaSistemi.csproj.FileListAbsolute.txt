@@ -1,0 +1,12 @@
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\bin\Debug\AracKiralamaSistemi.exe.config
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\bin\Debug\AracKiralamaSistemi.exe
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\bin\Debug\AracKiralamaSistemi.pdb
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.csproj.AssemblyReference.cache
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.Properties.Resources.resources
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.csproj.GenerateResource.cache
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.exe
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.pdb
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\bin\Debug\AracKiralama.mdf
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\bin\Debug\AracKiralama_log.ldf
+C:\Users\ardav\source\repos\AracKiralamaSistemi\AracKiralamaSistemi\obj\Debug\AracKiralamaSistemi.Form1.resources
